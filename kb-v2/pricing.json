@@ -1,0 +1,10 @@
+{
+  "policy": "用途に合わせた段階制。まずは小さく始めて検証。",
+  "plans": [
+    {"id":"oneoff","title":"単発相談","from":"¥-"},
+    {"id":"light","title":"サブスクLite","from":"¥-"},
+    {"id":"std","title":"サブスクStandard","from":"¥-"},
+    {"id":"prem","title":"サブスクPremium","from":"¥-"}
+  ],
+  "updated": "2025-09-28T23:20:00+09:00"
+}

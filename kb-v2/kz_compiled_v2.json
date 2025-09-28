@@ -1,0 +1,78 @@
+{
+  "org": "Kazera AI",
+  "tagline": "最強の敵、最高の相棒に。",
+  "founded": "2025-07-07",
+  "locations": [
+    "湘南",
+    "東京"
+  ],
+  "contact": {
+    "email": "info@kazera.jp"
+  },
+  "updated": "2025-09-28T23:20:00+09:00",
+  "people": [
+    {
+      "id": "ceo",
+      "name": "（正式氏名）",
+      "title": "代表",
+      "bio": "（80字ほど）"
+    },
+    {
+      "id": "ops",
+      "name": "（窓口名）",
+      "title": "一次窓口",
+      "bio": "（担当・返信帯）"
+    }
+  ],
+  "faq_notes": [
+    {
+      "when": [
+        "御社",
+        "貴社",
+        "Kazera",
+        "カゼラ"
+      ],
+      "say": "代表は（正式氏名）。一次窓口は（窓口名）。連絡は info@kazera.jp。"
+    }
+  ],
+  "services": [
+    {
+      "id": "adopt",
+      "title": "AI導入支援",
+      "note": "要件→小さく実装→現場適合。"
+    },
+    {
+      "id": "pro",
+      "title": "士業/中小企業DX",
+      "note": "会計・業務の自動化。"
+    },
+    {
+      "id": "tools",
+      "title": "専用Webツール開発",
+      "note": "軽量×高速改善。"
+    }
+  ],
+  "policy": "用途に合わせた段階制。まずは小さく始めて検証。",
+  "plans": [
+    {
+      "id": "oneoff",
+      "title": "単発相談",
+      "from": "¥-"
+    },
+    {
+      "id": "light",
+      "title": "サブスクLite",
+      "from": "¥-"
+    },
+    {
+      "id": "std",
+      "title": "サブスクStandard",
+      "from": "¥-"
+    },
+    {
+      "id": "prem",
+      "title": "サブスクPremium",
+      "from": "¥-"
+    }
+  ]
+}
